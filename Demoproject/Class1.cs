@@ -15,7 +15,7 @@ namespace Demoproject
             int first = 0, second = 1;
             int result = 0;
             result = first + second;
-            Console.Write("{0} {1} {2},first, second, result);" +
+            Console.Write("{0} {1} {2},first, second, result");
                 for (int i=3;i<number;i++)
                 {
                 first = second;
