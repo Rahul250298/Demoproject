@@ -1,0 +1,8 @@
+C:\Users\uknwr\source\repos\Demoproject\Demoproject\bin\Debug\Demoproject.exe.config
+C:\Users\uknwr\source\repos\Demoproject\Demoproject\bin\Debug\Demoproject.exe
+C:\Users\uknwr\source\repos\Demoproject\Demoproject\bin\Debug\Demoproject.pdb
+C:\Users\uknwr\source\repos\Demoproject\Demoproject\obj\Debug\Demoproject.csproj.AssemblyReference.cache
+C:\Users\uknwr\source\repos\Demoproject\Demoproject\obj\Debug\Demoproject.csproj.SuggestedBindingRedirects.cache
+C:\Users\uknwr\source\repos\Demoproject\Demoproject\obj\Debug\Demoproject.csproj.CoreCompileInputs.cache
+C:\Users\uknwr\source\repos\Demoproject\Demoproject\obj\Debug\Demoproject.exe
+C:\Users\uknwr\source\repos\Demoproject\Demoproject\obj\Debug\Demoproject.pdb
